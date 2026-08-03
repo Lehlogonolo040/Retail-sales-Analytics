@@ -46,7 +46,6 @@ FROM workspace.default.sales;
 -- for several consecutive days.
 -- Elasticity = %Change in Quantity Demanded / %Change in Price
 -- Baseline = the immediately preceding non-promo window of equal length
--- ============================================================
 
 WITH promo_period_1 AS (          -- 2016-01-22 to 2016-02-08 (18 days)
     SELECT 'Promo 1 (22 Jan - 08 Feb 2016)' AS period,
