@@ -35,30 +35,30 @@ The Sales Case Study analyzes 1,053 days of retail sales data to evaluate sales 
 
 ***** RECOMMENDATIONS *****
 
-. Continue using targeted promotional pricing where increased demand justifies the price reduction.
-. Monitor gross profit closely to ensure higher sales volumes translate into improved profitability.
-. Review pricing and supplier costs to address the overall negative gross profit margin.
-. Align staffing and inventory levels with high-performing trading days, particularly Fridays and Saturdays.
-. Use price elasticity analysis to guide future promotional and pricing decisions.
+- Continue using targeted promotional pricing where increased demand justifies the price reduction.
+- Monitor gross profit closely to ensure higher sales volumes translate into improved profitability.
+- Review pricing and supplier costs to address the overall negative gross profit margin.
+- Align staffing and inventory levels with high-performing trading days, particularly Fridays and Saturdays.
+- Use price elasticity analysis to guide future promotional and pricing decisions.
 
 ***** SUMMARY AND INSIGHTS *****
 
-. Built a data-driven sales analysis framework to evaluate daily, monthly, annual, and day-of-week performance.
-. Calculated key sales, pricing, and profitability metrics from daily sales data.
-. Identified highly elastic customer demand during promotional periods.
-. Identified seasonal sales patterns and high-performing trading days.
-. Developed an interactive dashboard to communicate key business performance indicators and trends.
-. Generated actionable recommendations focused on pricing, promotions, profitability, and operational planning.
+- Built a data-driven sales analysis framework to evaluate daily, monthly, annual, and day-of-week performance.
+- Calculated key sales, pricing, and profitability metrics from daily sales data.
+- Identified highly elastic customer demand during promotional periods.
+- Identified seasonal sales patterns and high-performing trading days.
+- Developed an interactive dashboard to communicate key business performance indicators and trends.
+- Generated actionable recommendations focused on pricing, promotions, profitability, and operational planning.
 
 ***** TOOLS USED *****
-. Miro (project planning).
+- Miro (project planning).
 
-. SQL (data querying, transformation, and analysis).
+- SQL (data querying, transformation, and analysis).
 
-. Excel (data processing, calculations, summaries, and visualization).
+- Excel (data processing, calculations, summaries, and visualization).
 
-. Dashboard (KPI reporting and interactive data visualization).
+- Dashboard (KPI reporting and interactive data visualization).
 
-. Canva (final presentation and business reporting).
+- Canva (final presentation and business reporting).
 
-. GitHub (project documentation and portfolio).
+- GitHub (project documentation and portfolio).
