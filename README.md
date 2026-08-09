@@ -52,8 +52,13 @@ The Sales Case Study analyzes 1,053 days of retail sales data to evaluate sales 
 
 ***** TOOLS USED *****
 . Miro (project planning).
+
 . SQL (data querying, transformation, and analysis).
+
 . Excel (data processing, calculations, summaries, and visualization).
+
 . Dashboard (KPI reporting and interactive data visualization).
+
 . Canva (final presentation and business reporting).
+
 . GitHub (project documentation and portfolio).
